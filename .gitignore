@@ -8,6 +8,7 @@ __pycache__/
 
 .idea/
 config.ini
+logs/
 
 # Distribution / packaging
 .Python
